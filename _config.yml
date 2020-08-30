@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/AnnapurnaFocus.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://4inana.github.io/index
+url:                https://4inana.github.io
 
 # Jekyll
 permalink:          /:title/
