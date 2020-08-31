@@ -1,5 +1,5 @@
 # Site
-title:              4Inana
+title:              3luna
 bio:                'BOOK OF SHADOWS'
 description:        "Jekyll theme"
 reading_time:       true
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   4Inana
+disqus_shortname:   3luna
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,13 +38,13 @@ disqus_shortname:   4Inana
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            falling inanna
-facebook:           falling inanna
-github-url:         4Inana
+#twitter:            
+#facebook:           
+#github-url:         
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          falling inanna
+#instagram:          
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -55,7 +55,7 @@ instagram:          falling inanna
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
-weibo:              4Inana
+#weibo:              
 #flickr:            username
 #codepen:           username
 #keybase:           username
