@@ -21,7 +21,7 @@ body {
 	background-attachment: fixed;
 	@media #{$small} {
 	    background-image: none !important;
-		background: $white;
+		background: rgba(0,0,0,0.5);
 	}
 }
 * {
