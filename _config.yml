@@ -1,7 +1,7 @@
 # Site
 title:              3luna
 bio:                'BOOK OF SHADOWS'
-description:        "ALL IS ONE."
+description:        "影之书"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,7 +38,7 @@ disqus_shortname:   3luna
   #ad-slot:
 #bing-verify:
 #twitter:     
-#Email: 4inana@clovermail.net
+#Email: 3luna@clovermail.net
 luna0: luna0
 luna1: luna1
 luna2: luna2
