@@ -8,8 +8,4 @@ comments: false
 
 <center><a href="https://3luna.github.io/"><b> </b></a>☉</center>
 
-{% capture images %}
-https://github.com/3luna/3luna.github.io/blob/master/assets/img/023246.jpg?raw=true
-{% endcapture %}
-{% include gallery images=images caption=" " cols=2 %}
-
+<center><img src="/assets/img/023246.jpg"></center>
