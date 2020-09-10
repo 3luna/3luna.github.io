@@ -17,8 +17,8 @@ comments: false
 <center><b> 3 </b>[<b>中阴解脱法</b> How to die correctly](https://3luna.github.io/luna3/ "中阴解脱法 How to die correctly")</center>
 <br />
 <br />
-### article文章仓库 > [ repository Mirror](https://github.com/3luna/mirror/)
-### download站外下载 > [ download](https://3luna.github.io/posts/)
-### tools工具软件 > [ all projects](https://3luna.github.io/projects/)
+<center>### article文章仓库 > [ repository Mirror](https://github.com/3luna/mirror/)</center>
+<center>### download站外下载 > [ download](https://3luna.github.io/posts/)</center>
+<center>### tools工具软件 > [ all projects](https://3luna.github.io/projects/)</center>
 <br />
 <center><img src="/assets/img/023246.jpg"></center>
