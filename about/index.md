@@ -14,14 +14,11 @@ comments: false
 <center><a href="luna2/"><b>玄学与自然科学 </b> metaphysics&science</a></center>
 <center><b>3</b></center>
 <center><a href="luna3/"><b>中阴解脱法 </b> How to die correctly</a></center>
-   
-   
-<center>--------------------------</center>
-   
-   
-<center>######article文章仓库 > [ repository Mirror](a href="https://github.com/3luna/mirror")</center>
+<br />
+--------------------------</center>
+<br />
+######article文章仓库 > [ repository Mirror](a href="https://github.com/3luna/mirror")
 <center><b>download站外下载 ></b><a href="/posts/"> download</a></center>
 <center><b>tools工具软件 ></b><a href="/projects/"> all projects</a></center>
-   
-   
+<br />
 <center><img src="/assets/img/023246.jpg"></center>
