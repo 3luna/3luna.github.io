@@ -15,7 +15,7 @@ comments: false
 <center><b>3</b></center>
 <center><a href="luna3/"><b>中阴解脱法 </b> How to die correctly</a></center>
 <br />
---------------------------</center>
+--------------------------
 <br />
 ######article文章仓库 > [ repository Mirror](a href="https://github.com/3luna/mirror")
 <center><b>download站外下载 ></b><a href="/posts/"> download</a></center>
