@@ -5,7 +5,7 @@ date: 2020-09-08
 excerpt: "《从伟大的上界到伟大的下界》。本文来自苏美尔文本的记录，关于女神 Inanna下降到冥界。"
 luna3: true
 tags: [Inanna,Ereshkigal,冥界,神话心理]
-feature: https://github.com/3luna/3luna.github.io/blob/master/assets/tutu/fm01.jpg?raw=true
+feature: http://i.imgur.com/Ds6S7lJ.png
 comments: true
 ---
 
