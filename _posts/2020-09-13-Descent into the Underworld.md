@@ -14,20 +14,23 @@ comments: true
 
 *Inanna下降冥界，既是一个迷人的故事，也是精神启蒙的重要原型。*
 
-*<p style="color:#008000">【绿色字体部分补充自参考文献，作为对原文更好的解释说明。】</p>*
+<font-color="#008000">*【绿色字体部分补充自参考文献，作为对原文更好的解释说明。】*</font>
 
 =======================================
 
 ## 精神的启蒙：深入黑暗世界（节选）
 
 作者：Dan Sewell Ward
+
 版权所有 1992 Dan Sewell Ward 
+
 原作：http://www.halexandria.org/dward385.htm
+
 翻译：4Inanna
 
-> 摘要 
+> 摘要
 
-> 古老的苏美尔神话中，女神Inanna降入冥界的传说隐含了一系列深刻的心理和时代信息。本文讨论了神话中各种成分的基本心理学解释，包括更高的自我概念，放弃旧的价值观和事物，以及最终赋予权力的自愿下降。还考虑了现代人以“深入黑暗世界”作为精神启蒙的一种形式：即寻求智慧和成长、抛弃幻想。  
+> 古老的苏美尔神话中，女神Inanna降入冥界的传说隐含了一系列深刻的心理和时代信息。本文讨论了神话中各种成分的基本心理学解释，包括更高的自我概念，放弃旧的价值观和事物，以及最终赋予权力的自愿下降。还考虑了现代人以“深入黑暗世界”作为精神启蒙的一种形式：即寻求智慧和成长、抛弃幻想。
 
 ### Inanna，天地之王  
 
@@ -150,6 +153,7 @@ Geshtianna甘愿忍受酷刑，保护她的兄弟，随后又在冥界中分享�
 
 【在阿拉利Arali，去往伟大下界路途上的一个停留处，Inanna裁定兄妹两人轮流在冥界中度过半年。Dumuzi也因此与复合的女神Inanna-Ereshkigal结婚，体验到了所有的女人，对爱情女神和死亡女神有了同样的了解。】
 
+<center><img src="/assets/tutu/ii001.jpg"></center>
 
 ### 下降的原因
 
@@ -163,7 +167,6 @@ Inanna下降的另一个原因，是为了出席天堂公牛Gugalanna的葬礼�
 
 最后，在审查Inanna下降的原因时，我们可以考虑佩雷拉[2]的观点：“Inanna的苦难，受辱，蒙羞，鞭打和死亡，她下降的地位，她在冥界‘被钉上十字架’，以及她的复活，都预示着基督式的激情，也许是已知的第一个‘为了挽回大地的荒芜（例如冬季）而牺牲’的神圣原型。（但是）Inanna牺牲自己不是为了人类的罪，而是为了地球上生命循环的需要，她更关心生命本身，而非善恶。”
 
-<center><img src="/assets/tutu/ii001.jpg"></center>
 
 ### 作为心理工具的下降冥想
 
@@ -187,13 +190,13 @@ Inanna下降的另一个原因，是为了出席天堂公牛Gugalanna的葬礼�
 
 
 
-*参考文献：*
+### *参考文献：*
 
-*[1]  Wolkstein, D. and Kramer, S.N.,<Inanna, Queen of Heaven and Earth>,<Her Stories and Hymns from Sumer>, Harper and Row, New York, 1983*
+[1] Wolkstein, D. and Kramer, S.N.,<Inanna, Queen of Heaven and Earth>,<Her Stories and Hymns from Sumer>, Harper and Row, New York, 1983.
 
-*[2]  Perera, S.B.,<Descent to the Goddess>,<A Way of Initiation for Women>, Inner City Books, Toronto, Canada, 1981*
+[2] Perera, S.B.,<Descent to the Goddess>,<A Way of Initiation for Women>, Inner City Books, Toronto, Canada, 1981.
 
-*[3]  George, D.,<Mysteries of the Dark Moon>,<The Healing Power of the Dark Goddess>, Harper San Francisco, Harper Collins Publishers, New York, 1992*
+[3] George, D.,<Mysteries of the Dark Moon>,<The Healing Power of the Dark Goddess>, Harper San Francisco, Harper Collins Publishers, New York, 1992.
 
-*[4]  Robbins, T.,<Skinny Legs and All>, Bantam Books, New York, 1990*
+[4] Robbins, T.,<Skinny Legs and All>, Bantam Books, New York, 1990.
 
