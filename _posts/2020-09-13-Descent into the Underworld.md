@@ -8,13 +8,13 @@ tags: [Inanna,冥界,神话心理]
 feature: /assets/tutu/ii010.jpg
 comments: true
 ---
-*古代有许多众所周知的神话，描绘了女英雄或英雄进入冥界的故事。这其中最意味深长的一个，大概是苏美尔女神Inanna，听从召唤进入冥界旅行的传说。*
+*古代有许多众所周知的神话，描绘了女英雄或英雄进入冥界的故事。这其中最意味深长的一个，大概是苏美尔女神 Inanna，听从召唤进入冥界旅行的传说。*
 
-*Inanna下降的故事，后来也被描述为巴比伦女神Ishtar的下降，不过Ishtar的故事只有145行，而Inanna下降的原始故事则有415行。这种差异归因于父权制，它从公元前二千年开始逐渐削弱了女神的力量和意义。*
+*Inanna下降的故事，后来也被描述为巴比伦女神 Ishtar的下降，不过 Ishtar的故事只有 145行，而 Inanna下降的原始故事则有 415行。这种差异归因于父权制，它从公元前二千年开始逐渐削弱了女神的力量和意义。*
 
 *Inanna下降冥界，既是一个迷人的故事，也是精神启蒙的重要原型。*
 
-*<font font-color=green>【绿色字体部分补充自参考文献，作为对原文更好的解释说明。】</font>*
+*<p style="color:#008000">【绿色字体部分补充自参考文献，作为对原文更好的解释说明。】</p>*
 
 =======================================
 
@@ -27,7 +27,7 @@ comments: true
 
 > 摘要 
 
-古老的苏美尔神话中，女神Inanna降入冥界的传说隐含了一系列深刻的心理和时代信息。本文讨论了神话中各种成分的基本心理学解释，包括更高的自我概念，放弃旧的价值观和事物，以及最终赋予权力的自愿下降。还考虑了现代人以“深入黑暗世界”作为精神启蒙的一种形式：即寻求智慧和成长、抛弃幻想。  
+> 古老的苏美尔神话中，女神Inanna降入冥界的传说隐含了一系列深刻的心理和时代信息。本文讨论了神话中各种成分的基本心理学解释，包括更高的自我概念，放弃旧的价值观和事物，以及最终赋予权力的自愿下降。还考虑了现代人以“深入黑暗世界”作为精神启蒙的一种形式：即寻求智慧和成长、抛弃幻想。  
 
 ### Inanna，天地之王  
 
@@ -104,13 +104,13 @@ Ereshkigal对Inanna的反应是可以理解的，因为Inanna的光辉、荣耀�
 
 Inanna下降的七个阶段，冥界的七道门，可以被认为是早期的“七面纱之舞（莎乐美之七面纱舞）”，在其中我们放弃了对生活的根本幻想。在Inanna的例子中，她每一次被移除服饰都是一个象征性的损失，分别代表了昆达利尼脉轮的失去。例如：           
 
-##### 王冠——她的神性，她与天堂的联系，顶轮。
-##### 青金石珠耳环——她的神力感官和法力表现，第三只眼，眉心轮。
-##### 双链珠项链——她迷人的光芒，喉轮。
-##### 名为“来吧，男人来吧”的胸甲——她的情感心脏，心轮。
-##### 金腰带——她的自我，腹腔神经丛，太阳轮/脐轮。
-##### 手中的青金石测量杆和线——生殖层面的意志，脐轮/生殖轮。
-##### 衣服：王袍和腰布——她的性别角色，海底轮。  
+#### 王冠——她的神性，她与天堂的联系，顶轮。
+#### 青金石珠耳环——她的神力感官和法力表现，第三只眼，眉心轮。
+#### 双链珠项链——她迷人的光芒，喉轮。
+#### 名为“来吧，男人来吧”的胸甲——她的情感心脏，心轮。
+#### 金腰带——她的自我，腹腔神经丛，太阳轮/脐轮。
+#### 手中的青金石测量杆和线——生殖层面的意志，脐轮/生殖轮。
+#### 衣服：王袍和腰布——她的性别角色，海底轮。  
 
 Inanna为下降做的最初准备是放弃了世俗财产和地位，但这还不够，下降到冥界需要付出更多。  
 
@@ -189,11 +189,11 @@ Inanna下降的另一个原因，是为了出席天堂公牛Gugalanna的葬礼�
 
 *参考文献：*
 
-*[1]  Wolkstein, D. and Kramer, S.N.,<Inanna, Queen of Heaven and Earth>,<Her Stories and Hymns from Sumer>, Harper and Row, New York, 1983.*
+*[1]  Wolkstein, D. and Kramer, S.N.,<Inanna, Queen of Heaven and Earth>,<Her Stories and Hymns from Sumer>, Harper and Row, New York, 1983*
 
-*[2]  Perera, S.B.,<Descent to the Goddess>,<A Way of Initiation for Women>, Inner City Books, Toronto, Canada, 1981.*
+*[2]  Perera, S.B.,<Descent to the Goddess>,<A Way of Initiation for Women>, Inner City Books, Toronto, Canada, 1981*
 
-*[3]  George, D.,<Mysteries of the Dark Moon>,<The Healing Power of the Dark Goddess>, Harper San Francisco, Harper Collins Publishers, New York, 1992.*
+*[3]  George, D.,<Mysteries of the Dark Moon>,<The Healing Power of the Dark Goddess>, Harper San Francisco, Harper Collins Publishers, New York, 1992*
 
-*[4]  Robbins, T.,<Skinny Legs and All>, Bantam Books, New York, 1990.*
+*[4]  Robbins, T.,<Skinny Legs and All>, Bantam Books, New York, 1990*
 
